@@ -6,7 +6,7 @@ AI-based voice-assisted Contact Center for assisting Farmers for their problems.
 
 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/55245862/205508044-e43024b4-3c92-4ab9-9f6b-e3c6038205a6.jpg" height="200" width="300"></p>
+
 
 ## Features
 
