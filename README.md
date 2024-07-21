@@ -1,10 +1,10 @@
 # Hurudza.AI
 
-> Problem Statement (AGRI12)
+> Problem Statement 
 
 AI-based voice-assisted Contact Center for assisting Farmers for their problems. Farmers can log their problems with the contact center thru phone calls / SMS / website and in return an automated voice response can be provided to the farmers with a most appropriate solution for their problems.
 
-# UNESCO India - Africa Hackathon
+
 
 <p align="center"><img src="https://user-images.githubusercontent.com/55245862/205508044-e43024b4-3c92-4ab9-9f6b-e3c6038205a6.jpg" height="200" width="300"></p>
 
@@ -60,16 +60,6 @@ $ npm i
 $ npm start
 ```
 
-## Team Members:
-
-| S.No. | Name                    | Role                 | GitHub Username:octocat:                             |
-| ----- | ----------------------- | -------------------- | ---------------------------------------------------- |
-| 1.    | Rudrakshi (Team Leader) | Frontend Development | [@rudrakshi99](https://github.com/rudrakshi99)       |
-| 2.    | Frank Makeba            | Frontend Development | [@CutCoders](https://github.com/CutCoders)           |
-| 3.    | Tony Onkgopotse Richard | Backend Development  | [@Onkgopotse007](https://github.com/Onkgopotse007)   |
-| 4.    | Pedro Anda Ondo Nchama  | Backend Development  | [@paondonchama](https://github.com/paondonchama)     |
-| 5.    | Faremi Saheed           | ML Engineer          | [@faremi](https://github.com/faremi)                 |
-| 6.    | Ayushi Saxena           | Product Designer     | [@ayushisaxena19](https://github.com/ayushisaxena19) |
 
 ## Maintainers✨
 
