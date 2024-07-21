@@ -60,25 +60,3 @@ $ npm i
 $ npm start
 ```
 
-
-## Maintainers✨
-
-<table>
-  <tbody><tr>
-    <td align="center"><a href="https://github.com/rudrakshi99"><img alt="" src="https://avatars.githubusercontent.com/rudrakshi99" width="100px;"><br><sub><b>Rudrakshi</b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center/commits/master?author=rudrakshi99" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/faremi"><img alt="" src="https://avatars.githubusercontent.com/faremi" width="100px;"><br><sub><b>Faremi Saheed </b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center/commits/backend?author=faremi" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/paondonchama"><img alt="" src="https://avatars.githubusercontent.com/paondonchama" width="100px;"><br><sub><b>Pedro Anda Ondo Nchama </b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center/commits/backend?author=paondonchama" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Onkgopotse007"><img alt="" src="https://avatars.githubusercontent.com/Onkgopotse007" width="100px;"><br><sub><b>Tony Onkgopotse Richard </b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center/commits/call_api?author=Onkgopotse007" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/ayushisaxena19"><img alt="" src="https://avatars.githubusercontent.com/ayushisaxena19" width="100px;"><br><sub><b>Ayushi Saxena  </b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/CutCoders"><img alt="" src="https://avatars.githubusercontent.com/CutCoders" width="100px;"><br><sub><b>Frank Makeba </b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center/commits/master?author=CutCoders" title="Code">💻</a></td>
-  </tr>
-</tbody></table>
-
-# License :memo:
-
-This project follows the [MIT License](https://choosealicense.com/licenses/mit/).
-
-[![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak)
-[![Built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak.git) [![Built By Developers](https://forthebadge.com/images/badges/built-by-developers.svg)](https://github.com/rudrakshi99/Jan-Dhan-Darshak)
